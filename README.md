@@ -137,7 +137,4 @@ Open http://localhost:5173 🎉
 | PUT | /api/tasks/:id | Yes | Update task |
 | DELETE | /api/tasks/:id | Yes | Delete task |
 
----
 
-## 👤 Author
-Made with ❤️ for the Full Stack Developer Internship Assignment
